@@ -2,7 +2,7 @@
   "posts": [
     {
       "name": "Aman",
-      "adhaar No": "1234",
+      "aadhaarno": "1234",
       "age": 18
     }
   ],

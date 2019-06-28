@@ -1,8 +1,9 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Aman",
+      "adhaar No": "1234"
+      "age": 18
     }
   ],
   "profile": {

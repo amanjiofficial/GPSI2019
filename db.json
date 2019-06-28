@@ -1,8 +1,8 @@
 {
   "posts": [
     {
-      "username": 1,
-      "password": "gpsi"
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
